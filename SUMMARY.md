@@ -7,6 +7,11 @@
 * [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus.md)
 * [💖 Values](about-us/values.md)
 
+## Platforms
+
+* [👩💻 GigNest Collective](platforms/gignest-collective.md)
+* [💖 Roadmap](platforms/roadmap.md)
+
 ## Team
 
 * [👋 Meet the Team!](team/meet-the-team.md)
