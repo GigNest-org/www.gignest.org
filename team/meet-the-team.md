@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/09a04da6-25ce-4f4f-93c0-640603d79a8b.webp
-coverY: 0
+coverY: 445.1701261701261
 ---
 
 # 👋 Meet the Team!
