@@ -2,7 +2,7 @@
 description: A Decade of Transformation
 ---
 
-# 💖 Roadmap
+# 🛣 Roadmap
 
 ### Year 1-2: Laying the Foundations
 

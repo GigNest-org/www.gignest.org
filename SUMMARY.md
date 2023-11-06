@@ -10,7 +10,7 @@
 ## Platforms
 
 * [👩💻 GigNest Collective](platforms/gignest-collective.md)
-* [💖 Roadmap](platforms/roadmap.md)
+* [🛣 Roadmap](platforms/roadmap.md)
 
 ## Team
 
