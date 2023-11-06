@@ -1,3 +1,3 @@
 # Table of contents
 
-* [www.gignest.org](README.md)
+* [Page](README.md)
