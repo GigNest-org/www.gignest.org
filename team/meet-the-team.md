@@ -7,15 +7,15 @@ coverY: 0
 
 At GigNest, our team is the heart that pumps innovation and dedication into the ecosystem we are building. We’re a diverse group of dreamers, doers, and relentless innovators committed to redefining the gig economy. Let’s introduce you to the leaders who are at the forefront of this transformation.
 
-**🚀 Jordan Taylor – Team Lead**
+**🚀 QuantumHarbinger** **– Team Lead**
 
 Jordan is the visionary force behind GigNest. With a passion for disruptive innovation and a background in tech entrepreneurship, Jordan believes in empowering individuals to create their destiny. They are a champion of diversity and inclusion, ensuring that GigNest remains a platform where every voice is heard and every dream is valid.
 
-**💻 Alex Chen – Lead Developer**
+**💻 ByteAlchemist – Lead Developer**
 
 Alex, our wizard of code, brings the GigNest platform to life. With a rich history in software engineering and blockchain technology, Alex is dedicated to constructing a secure, efficient, and user-friendly environment. Their commitment to excellence is what makes GigNest a reliable and cutting-edge platform for freelancers and community builders alike.
 
-**📢 Samira Raji – Lead Community & Marketing**
+**📢 TribeSynthesist – Lead Community & Marketing**
 
 Samira is the voice and spirit of GigNest in the community. With a flair for communication and a knack for viral marketing, she has an incredible ability to connect with individuals and communities on a profound level. Her strategies are not just about growth but about fostering a sense of belonging and support within GigNest.
 
