@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Welcome to GigNest!!](README.md)
 
 ## About us
 
