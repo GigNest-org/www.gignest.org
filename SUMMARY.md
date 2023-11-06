@@ -18,7 +18,3 @@
 
 * [🤝 How we Work Together](collaborating/how-we-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)

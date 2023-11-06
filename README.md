@@ -2,8 +2,7 @@
 description: >-
   Embark on a journey where your talents take flight in an ecosystem designed
   for growth, inclusivity, and empowerment.
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
+cover: .gitbook/assets/ec27d14a-3448-4cd5-bfd7-de9e4818cf1a.webp
 coverY: 0
 ---
 
