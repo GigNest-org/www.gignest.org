@@ -1,17 +1,9 @@
 # 📅 Meetings
 
-### ☕️ Zoom Coffee
+**☕️ Virtual Coffee Hangouts:** Drop in for a virtual coffee chat when you're free – a weekly opportunity to connect.&#x20;
 
-We meet once a week for coffee for whoever is open and interested or whoever fancies a chat!
+**🎲 Remote Team Activities:** Enjoy regular virtual activities to keep team spirits high without waiting for big events.&#x20;
 
-### 🎲 Team Event
+**🤝 Quick Check-Ins:** Our quick, weekly remote check-ins ensure everyone stays in the loop seamlessly.&#x20;
 
-As we don't want to wait for our next offsite to spend some quality time together and sparkle our days, we're trying to organise team events on a regular basis.
-
-### 🤝 Weekly Syncs
-
-We meet on a weekly basis and sync between our cycle teams and the company as a whole.
-
-### 🌍 Offsites
-
-Every few months we arrange a company offsite so we can all meet face to face.
+**🌍 Virtual Offsites:** Twice a year, we come together online for comprehensive offsites to collaborate and bond.
